@@ -1,12 +1,12 @@
 {
   "type": "think-admin-plugin",
-  "name": "zoujingli/think-plugs-static",
+  "name": "baolong/think-plugs-static",
   "license": "MIT",
   "description": "Static Files for ThinkAdmin",
   "authors": [
     {
       "name": "Anyon",
-      "email": "zoujingli@qq.com"
+      "email": "baolong@qq.com"
     }
   ],
   "require": {
